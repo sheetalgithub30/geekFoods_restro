@@ -1,0 +1,35 @@
+#cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+#card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 26rem;
+    border: 1px solid black;
+    line-height: 1.6;
+}
+#card img{
+  height: 15rem;
+  /* width: 25rem; */
+}
+#card #inner{
+    padding: 0.5rem 1rem;
+}
+#card #type{
+  background-color: rgb(202, 233, 246);
+  padding: 0.5rem 1rem;
+}
+#type p{
+    color: green;
+}
+#type #menu{
+    color: blue;
+}
+#rating{
+    display: flex;
+}

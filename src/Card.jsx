@@ -1,8 +1,8 @@
 import React from 'react'
-import {data} from './dummy'
+
 import './Card.css'
 
-function Card() {
+function Card({data}) {
   return (
     <div id="cards">
        { data.map((e)=>{

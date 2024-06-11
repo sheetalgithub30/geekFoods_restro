@@ -1,7 +1,7 @@
 #cards{
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 4rem;
     justify-content: center;
     align-items: center;
 }
@@ -10,11 +10,13 @@
     flex-direction: column;
     justify-content: center;
     width: 26rem;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     line-height: 1.6;
+    box-shadow: 5px 5px 10px black;
 }
 #card img{
   height: 15rem;
+  padding: 1rem;
   /* width: 25rem; */
 }
 #card #inner{
@@ -32,4 +34,12 @@
 }
 #rating{
     display: flex;
+}
+#card img:hover{
+    transform: scale(1.05);
+}
+
+#star{
+    font-size: 1.6rem;
+    filter: drop-shadow(4px 3px 3px rgb(22, 22, 22));
 }

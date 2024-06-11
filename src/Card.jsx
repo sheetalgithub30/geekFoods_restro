@@ -39,7 +39,7 @@ return(
    {
       arr.map(()=>{
        return<>
-        <p>⭐</p>
+        <p id="star">⭐</p>
        </>
       })
    }

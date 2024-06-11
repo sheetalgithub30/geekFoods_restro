@@ -7,7 +7,7 @@ export const data = [{
     type:"Chinese"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    src:"https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1621045014/11-Best-Thai-Food-Dishes-Spicy-Salad/11-Best-Thai-Food-Dishes-Spicy-Salad-1120x732.jpg",
     name:"@ Thai",
     rating:5,
     address:"376 Rayleigh Road, Essex",
@@ -15,15 +15,15 @@ export const data = [{
     type:"Thai"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
-    name:" Thai Restaurant",
+    src:"https://siamais.co.uk/wp-content/uploads/2023/07/pad-thai-dish-1024x771.jpeg",
+    name:"Thai Restaurant",
     rating:5,
     address:"30 Greyhound Road Hammersmith, London",
     code:"W6 8NX",
     type:"Thai"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKaOV7TDMSnZjkuVi87nwKrkQduCe-VJ7lyw&s",
     name:"042 Restaurant & Bar",
     rating:3,
     address:"885 High Road Leytonstone, London",
@@ -31,7 +31,7 @@ export const data = [{
     type:"African"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    src:"https://www.tastingtable.com/img/gallery/20-chinese-foods-you-need-to-try-at-least-once/intro-1643997465.jpg",
     name:"1 2 3 Chinese",
     rating:5,
     address:"Unit 4 Spencer House, Swalwell",
@@ -39,7 +39,7 @@ export const data = [{
     type:"Chinese"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Dft9P7WYfNAQj0tWH319hfHA6qURgaL7Aw&s",
     name:"1 Pizza 1",
     rating:3,
     address:"160 Leeds Road,Leeds",
@@ -47,7 +47,7 @@ export const data = [{
     type:"Pizza"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFb-QOETAw_2smnhPtCqsh8A1KTeBnpYEBTQ&s",
     name:"1st Choice Pizza",
     rating:5,
     address:"1 WAlsall Road, Cannock",
@@ -55,7 +55,7 @@ export const data = [{
     type:"Pizza"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyOVmOsjbkYZhVT3lxXNDNHT1tFs75CNm74g&s",
     name:"333 Chinese Takeaway",
     rating:5,
     address:"276 Waterloo Road, Blackpool",
@@ -63,7 +63,7 @@ export const data = [{
     type:"Chinese"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLUreyRYTNBxb7FGivEfdAKGI5Cj6asm4kg&s",
     name:"280 Degrees African & Nigerian Restaurant",
     rating:2,
     address:"280 Kilburn High Road, London",
@@ -71,7 +71,7 @@ export const data = [{
     type:"English"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7xRBY1qtI13RkDMFpzmH7YLooRLS6odvvA&s",
     name:"328 Chinese Online",
     rating:5,
     address:"2-4 Commercial Street, Aberbargoed",
@@ -79,7 +79,7 @@ export const data = [{
     type:"Chinese"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbGlYhYHrJfwT2etKj-Y9xZR4R6Nq66oNKPA&s",
     name:"@ Thai",
     rating:3,
     address:"376 Rayleigh Road, Essex",
@@ -87,7 +87,7 @@ export const data = [{
     type:"Thai"
 },
 {
-    src:"https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA3GophyPKFGtBvU6RGN0nUlNAH6HDaLEsUA&s",
     name:"333 Chinese Takeaway",
     rating:4,
     address:"276 Waterloo Road, Blackpool",
